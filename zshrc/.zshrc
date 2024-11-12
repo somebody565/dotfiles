@@ -42,4 +42,4 @@ eval "$(zoxide init zsh)"
 alias ls='eza'
 alias cp='gcp'
 
-neofetch
+fastfetch
