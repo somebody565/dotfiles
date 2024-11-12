@@ -12,13 +12,11 @@
     "cpu",
     "gpu",
     "memory",
-    "swap",
     "disk",
     "localip",
     "publicip",
     "battery",
     "poweradapter",
-    "locale",
     "break",
     "colors"
   ]
